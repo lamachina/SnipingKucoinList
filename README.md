@@ -1,0 +1,2 @@
+# SnipingKucoinList
+Sniping bot Kucoin
